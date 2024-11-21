@@ -1,0 +1,16 @@
+{
+  "banks":[
+    {
+      "bankName": "Abhyudaya Co-op Bank",
+      "BankDataURL": "https://kaushik300.github.io/BankData/Abhyudaya%20Co-op%20Bank.txt"
+    },
+    {
+      "bankName": "Abu Dhabi Commercial Bank",
+      "BankDataURL": "https://kaushik300.github.io/BankData/Abu%20Dhabi%20Commercial%20Bank.txt"
+    },
+    {
+      "bankName": "Akola District Central Co-op Bank",
+      "BankDataURL": "https://kaushik300.github.io/BankData/Akola%20District%20Central%20Co-op%20Bank.txt"
+    }
+  ]
+}
